@@ -16,10 +16,10 @@ print("Serveur de détection de fraude avec MySQL et ML...")
 
 # Configuration MySQL
 MYSQL_CONFIG = {
-    'host': 'localhost',
-    'user': 'root',  # Change to your MySQL username
-    'password': 'ayet2004',  # Change to your MySQL password
-    'database': 'fraud_detection',  # Change to your database name
+    'host': 'shortline.proxy.rlwy.net',
+    'user': 'root',
+    'password': 'MHeQRpbRWUZsCAZSEcCSHdDBswxUzdgh',
+    'database': 'railway',  # or 'fraud_detection' if you created it
     'port': 3306
 }
 
